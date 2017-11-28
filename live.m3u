@@ -1,58 +1,7 @@
-#EXTINF:-1,[CA] ytv
-http://bigiptv.ovh:8000/live/oussema/oussema/8496.ts
-#EXTINF:-1,[CA] tree house
-http://bigiptv.ovh:8000/live/oussema/oussema/8500.ts
-#EXTINF:-1,[CA] travel channel
-http://bigiptv.ovh:8000/live/oussema/oussema/8501.ts
-#EXTINF:-1,[CA] tmn
-http://bigiptv.ovh:8000/live/oussema/oussema/8502.ts
-#EXTINF:-1,[CA] teletoon
-http://bigiptv.ovh:8000/live/oussema/oussema/8503.ts
-#EXTINF:-1,[CA] sportsnet world hd
-http://bigiptv.ovh:8000/live/oussema/oussema/8504.ts
-#EXTINF:-1,[CA] Sportsnet West HD
-http://bigiptv.ovh:8000/live/oussema/oussema/8505.ts
-#EXTINF:-1,[CA] Sportsnet One HD
-http://bigiptv.ovh:8000/live/oussema/oussema/8506.ts
-#EXTINF:-1,[CA] Sportnet Ontario HD
-http://bigiptv.ovh:8000/live/oussema/oussema/8507.ts
-#EXTINF:-1,[CA] spike
-http://bigiptv.ovh:8000/live/oussema/oussema/8508.ts
-#EXTINF:-1,[CA] silver screen classics
-http://bigiptv.ovh:8000/live/oussema/oussema/8510.ts
-#EXTINF:-1,[CA] shopping channel
-http://bigiptv.ovh:8000/live/oussema/oussema/8511.ts
-#EXTINF:-1,[CA] nick
-http://bigiptv.ovh:8000/live/oussema/oussema/8518.ts
-#EXTINF:-1,[CA] mtv canada
-http://bigiptv.ovh:8000/live/oussema/oussema/8521.ts
-#EXTINF:-1,[CA] movie time
-http://bigiptv.ovh:8000/live/oussema/oussema/8522.ts
-#EXTINF:-1,[CA] gsn
-http://bigiptv.ovh:8000/live/oussema/oussema/8526.ts
-#EXTINF:-1,[CA] global tv edmonton
-http://bigiptv.ovh:8000/live/oussema/oussema/8528.ts
-#EXTINF:-1,[CA] g4
-http://bigiptv.ovh:8000/live/oussema/oussema/8530.ts
-#EXTINF:-1,[CA] fox news
-http://bigiptv.ovh:8000/live/oussema/oussema/8533.ts
-#EXTINF:-1,[CA] evasion
-http://bigiptv.ovh:8000/live/oussema/oussema/8534.ts
-#EXTINF:-1,[CA] e!
-http://bigiptv.ovh:8000/live/oussema/oussema/8535.ts
-#EXTINF:-1,[CA] ctv toronto
-http://bigiptv.ovh:8000/live/oussema/oussema/8537.ts
-#EXTINF:-1,[CA] cp24
-http://bigiptv.ovh:8000/live/oussema/oussema/8538.ts
-#EXTINF:-1,[FR] AB MOTEURS
-http://bigiptv.ovh:8000/live/oussema/oussema/8692.ts
-#EXTINF:-1,[CA] comedy gold
-http://bigiptv.ovh:8000/live/oussema/oussema/8540.ts
-#EXTINF:-1,[CA] chch
-http://bigiptv.ovh:8000/live/oussema/oussema/8542.ts
-#EXTINF:-1,[CA] cbc toronto
-http://bigiptv.ovh:8000/live/oussema/oussema/8543.ts
-#EXTINF:-1,[CA] bnn
-http://bigiptv.ovh:8000/live/oussema/oussema/8545.ts
-#EXTINF:-1,[CA] abc spark
-http://bigiptv.ovh:8000/live/oussema/oussema/8547.ts
+#EXTM3U
+#EXTINF:-1,[CA] DARTH MAUL: Apprentice
+https://www.youtube.com/watch?v=Djo_91jN3Pk
+#EXTINF:-1,[CA] Hearts of Kyber
+https://www.youtube.com/watch?v=D_1qjmjPEs0
+#EXTINF:-1,[CA] Dark Legacy
+https://www.youtube.com/watch?v=_gKpJy3bzaw
