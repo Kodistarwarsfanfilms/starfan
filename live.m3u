@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1,[CA] DARTH MAUL: Apprentice
-https://www.youtube.com/watch?v=Djo_91jN3Pk
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Djo_91jN3Pk
+
 #EXTINF:-1,[CA] Hearts of Kyber
 https://www.youtube.com/watch?v=D_1qjmjPEs0
 #EXTINF:-1,[CA] Dark Legacy
